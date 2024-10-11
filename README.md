@@ -5,7 +5,7 @@
 I have a degree in *Financial Management* and I am currently pursuing a *Bachelor's in Computer Science* and a postgraduate degree in *Statistics*. This combination allows me to **solve complex problems in an analytical and strategic way**.
 
 <details>
-  <summary> Contact or Follow me </summary>
+  <summary> Click <b>here</b> to contact or to follow me </summary>
 
 <p>
       <a href="mailto:willianmontteiro23@gmail.com" title="Gmail">
