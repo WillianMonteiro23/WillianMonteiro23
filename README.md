@@ -2,7 +2,7 @@
   
 ### Welcome, I'm Willian Monteiro !
     
-I have a degree in *Financial Management* and I am currently pursuing a *Bachelor's in Computer Science* and a postgraduate degree in *Statistics*. This combination allows me to **solve complex problems in an analytical and strategic way**.
+I have a degree in *Financial Management* and am currently pursuing a *Bachelor's in Computer Science* along with a *postgraduate degree in Applied Statistics*. This combination helps me tackle complex problems with a mix of analytical thinking and strategic vision. **I use technology to turn data into meaningful insights**, uncovering patterns that guide better decisions and create real impact.
 
 <details>
   <summary> Click <b>here</b> to contact or to follow me </summary>
